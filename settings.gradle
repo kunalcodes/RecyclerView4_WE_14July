@@ -1,0 +1,2 @@
+rootProject.name = "Recycler_View4_WE"
+include ':app'
